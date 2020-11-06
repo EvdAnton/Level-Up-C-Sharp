@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp2_BatmanBinarySearch\bin\Debug\HomeWorkLevelUp2_BatmanBinarySearch.exe
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp2_BatmanBinarySearch\bin\Debug\HomeWorkLevelUp2_BatmanBinarySearch.pdb
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp2_BatmanBinarySearch\obj\Debug\HomeWorkLevelUp2_BatmanBinarySearch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp2_BatmanBinarySearch\obj\Debug\HomeWorkLevelUp2_BatmanBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp2_BatmanBinarySearch\obj\Debug\HomeWorkLevelUp2_BatmanBinarySearch.exe
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp2_BatmanBinarySearch\obj\Debug\HomeWorkLevelUp2_BatmanBinarySearch.pdb

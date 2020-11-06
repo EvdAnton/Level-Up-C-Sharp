@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp11202004\bin\Debug\HomeWorkLevelUp11202004.exe
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp11202004\bin\Debug\HomeWorkLevelUp11202004.pdb
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp11202004\obj\Debug\HomeWorkLevelUp11202004.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp11202004\obj\Debug\HomeWorkLevelUp11202004.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp11202004\obj\Debug\HomeWorkLevelUp11202004.exe
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\HomeWorkLevelUp11202004\obj\Debug\HomeWorkLevelUp11202004.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\homeworkNewType\obj\Debug\homeworkNewType.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\homeworkNewType\obj\Debug\homeworkNewType.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\homeworkNewType\bin\Debug\homeworkNewType.exe
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\homeworkNewType\bin\Debug\homeworkNewType.pdb
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\homeworkNewType\obj\Debug\homeworkNewType.exe
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\homeworkNewType\obj\Debug\homeworkNewType.pdb
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\homeworkNewType\bin\Debug\homeworkNewType.exe
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\homeworkNewType\bin\Debug\homeworkNewType.pdb
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\homeworkNewType\obj\Debug\homeworkNewType.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\homeworkNewType\obj\Debug\homeworkNewType.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\homeworkNewType\obj\Debug\homeworkNewType.exe
+C:\Users\User\Desktop\Other\CPP\C#\LevelUp\HomeWork LevelUp C#\homeworkNewType\obj\Debug\homeworkNewType.pdb
